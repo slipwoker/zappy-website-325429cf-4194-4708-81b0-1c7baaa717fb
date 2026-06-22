@@ -1,0 +1,109 @@
+# החדר הפרטי — Generative Engine Optimization Map
+
+> An online store specializing in the sale of adult intimate products and accessories. The business operates in the adult e-commerce space, requiring a tasteful, discreet, and professional presentation that balances boldness with elegance to appeal to adult customers seeking a safe and comfortable shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://-325429cf.zappy5.app
+חנות אביזרי מין אונליין ישראל מציעה מבחר מפנק של צעצועי מין לזוגות, ויברטורים ומתנות אינטימיות. חוויית קנייה דיסקרטית, בטוחה ומלאת תשוקה. היכנסו עכשיו!
+
+### ניסיון
+https://-325429cf.zappy5.app/experience
+גלו איך אנחנו הופכים רכישת אביזרי מין לזוגות לחוויה מרגשת, נגישה ובטוחה. מבחר מוצרים איכותיים, משלוח דיסקרטי והדרכה צמודה. התחילו את המסע שלכם עוד היום.
+
+### אודות
+https://-325429cf.zappy5.app/about
+הסיפור של החדר הפרטי – חנות אביזרי מין אונליין ישראל שנולדה כדי לקרב זוגות. אנו מאמינים באינטימיות נגישה, ייעוץ מקצועי ודיסקרטיות מוחלטת. בואו להכיר אותנו מקרוב.
+
+### שאלות נפוצות
+https://-325429cf.zappy5.app/faq
+שאלות נפוצות על רכישת אביזרי מין לזוגות – ממשלוח דיסקרטי ועד התאמת ויברטור לזוג המושלם. קבלו תשובות ברורות, כנות ומהירות שיעשו לכם חשק להתחיל. כנסו עכשיו!
+
+### צור קשר
+https://-325429cf.zappy5.app/contact
+צריכים עזרה בבחירת צעצועי מין לזוגות במערכת יחסים מרחוק? צרו קשר עם החדר הפרטי – צוות מומחים זמין לייעץ, להמליץ ולהבטיח חוויית קנייה דיסקרטית ואישית. פנו אלינו עוד היום!
+
+### Products
+https://-325429cf.zappy5.app/products
+המוצרים שלנו - החדר הפרטי
+
+### Cart
+https://-325429cf.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-325429cf.zappy5.app/checkout
+תשלום
+
+### Login
+https://-325429cf.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-325429cf.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-325429cf.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-325429cf.zappy5.app/product/:slug
+פרטי המוצר - החדר הפרטי
+
+### Category
+https://-325429cf.zappy5.app/category/:slug
+מוצרים - החדר הפרטי
+
+### תודה על פנייתך
+https://-325429cf.zappy5.app/thank-you
+החדר הפרטי - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-325429cf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-325429cf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-325429cf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About החדר הפרטי
+An online store specializing in the sale of adult intimate products and accessories. The business operates in the adult e-commerce space, requiring a tasteful, discreet, and professional presentation that balances boldness with elegance to appeal to adult customers seeking a safe and comfortable shopping experience.
+
+## Target Audience
+- זוגות עירוניים מקצוענים
+- זוגות במערכות יחסים מרחוק
+- הורים חדשים
+- נוער צעיר
+
+## Industry
+Adult Products E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-325429cf.zappy5.app/sitemap.xml
+- Robots: https://-325429cf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-325429cf.zappy5.app/llms-full.txt
+- Products (JSON): https://-325429cf.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-325429cf.zappy5.app/product-feed.xml
